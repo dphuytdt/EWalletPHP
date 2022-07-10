@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color: rgb(133, 233, 176);
+}
+
+.taskbar1{
+    padding: 8px;
+    background-color: rgb(19, 183, 142);
+    color : white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.taskbar1:hover{
+    background-color: rgb(9, 136, 104);
+}
+
+.container{
+    border: 3px solid rgb(44, 85, 90);
+    margin-top: 40px;
+    padding-bottom:10px;
+    background-color: rgb(19, 183, 142);
+    width: 30%;
+
+}
+
+.container:hover{
+    background-color: rgb(10, 140, 107);
+}
+
+.dk{
+    margin-left: 531px;
+}
